@@ -1,4 +1,5 @@
 # ENGF34_S2_GRP12
+The project can be executed from running UI.py, and the database is cleared for each run for demo purposes.
 Walk-a-Dog VR Health Tracker By Nik Bin Nik Nahran Nik Mohd Amir, Lachlan Lai, Haocheng Xu, Aowei Zhang
 
 This project aims at providing consumers with a tool that encourages the simulation of virtual walking at home. The product is a mechanized device that attaches to the consumer and acts as automated walking guide that mimics walking while sitting down. Effectively, the consumer can achieve walking targets whilst in the comfort of their own home. This product potentially promotes public health, helps people being productive and persist in exercising.
